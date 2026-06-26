@@ -1,7 +1,7 @@
-# Thinkara 🧠✨
+# Orin 🧠✨
 ### *Transform Your Notes into Knowledge with AI*
 
-Thinkara is a premium, AI-powered study companion designed to supercharge your learning. Effortlessly turn your static notes and PDFs into interactive study materials, manage your schedule with a dynamic planner, and track your growth with advanced analytics.
+Orin is a premium, AI-powered study companion designed to supercharge your learning. Effortlessly turn your static notes and PDFs into interactive study materials, manage your schedule with a dynamic planner, and track your growth with advanced analytics.
 
 ---
 
